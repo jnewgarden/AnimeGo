@@ -1,0 +1,3 @@
+DROP DATABASE IF EXISTS animeGo_db;
+CREATE DATABASE animeGo_db;
+
